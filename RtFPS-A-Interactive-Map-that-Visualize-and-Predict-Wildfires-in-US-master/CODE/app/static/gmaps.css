@@ -1,0 +1,14 @@
+/*******************************************************************************
+ * Needed for Google Maps
+ *******************************************************************************/
+
+#google-map {
+    width: 100%;
+    height: 600px;
+    margin: 0;
+    padding: 0;
+}
+
+.gmap-wildfires , .gmap-wildfires svg {
+    position: absolute;
+}

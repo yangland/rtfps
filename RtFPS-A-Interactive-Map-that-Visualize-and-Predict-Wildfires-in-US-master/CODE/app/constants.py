@@ -1,0 +1,6 @@
+PATH_TO_WILDFIRE = 'datasets/wildfire/FPA_FOD_20170508.sqlite'
+PATH_TO_FUEL_MOISTURE = 'datasets/fuel_moisture/nfmd_compiled.csv'
+PATH_TO_TEMPERATURE_AND_PRECIPITATION = 'datasets/temperature_and_precipitation/tp_zipcode_county.csv'
+PATH_TO_WIND = 'datasets/wind/wind_with_fips.csv'
+# PATH_TO_MLPREDS = 'datasets/mlpreds/ml2.csv'
+PATH_TO_MLPREDS = 'datasets/mlpreds/ml_output.csv'

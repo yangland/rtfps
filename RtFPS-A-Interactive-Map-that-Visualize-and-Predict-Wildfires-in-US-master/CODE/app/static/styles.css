@@ -1,0 +1,10 @@
+.d3-tip {
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    padding: 5px;
+}
+
+.d3-tip text {
+    fill: white;
+    font-size: smaller;
+}
